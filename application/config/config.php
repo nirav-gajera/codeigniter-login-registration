@@ -38,15 +38,6 @@ $config['base_url'] = 'http://localhost:8080/codeig_log-reg/index.php';
 $config['index_page'] = 'index.php';
 
 
-// $config['protocol'] = 'smtp';
-// $config['smtp_host'] = 'sandbox.smtp.mailtrap.io';
-// $config['smtp_port'] = '2525';
-// $config['smtp_user'] = '562dc72154dc6e';
-// $config['smtp_pass'] = '0e5477e6d80214';
-// $config['mailtype'] = 'html';
-// $config['charset'] = 'utf-8';
-// $config['newline'] = "\r\n";
-
 
 
 /*
